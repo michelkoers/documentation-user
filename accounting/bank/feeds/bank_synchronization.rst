@@ -126,3 +126,6 @@ You can update your credentials in the *Developer Mode*.
 To do so, go to :menuselection:`General Settings`, click on *Activate developer mode*, then go to
 :menuselection:`Accounting --> Configuration --> Online Synchronization`, then open the Institution
 you want to edit, and click on *Update Credentials*.
+
+.. seealso::
+   * :doc:`bank_statements`
