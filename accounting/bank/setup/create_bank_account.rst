@@ -44,10 +44,6 @@ support with this bank account.
 
 .. demo:fields:: base.action_res_partner_bank_account_form
 
-.. demo:action:: base.action_res_partner_bank_account_form
-
-   View *Bank Account* in our Online Demonstration
-
 .. todo:: add inherited field tooltip
 
     **Display on reports :** Display this bank account on the documents that
